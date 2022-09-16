@@ -15,7 +15,7 @@
 REC2="60914D29C01C81F1"
 # ####################### ####### #### ####
 # REC1: public key
-REC1="63FB12B215403B20"
+REC1="B15987503DB1134D"
 # WEEKURL="http://localhost:4000/WEEK/WEEK.txt"
 WEEKURL="https://os.vlsm.org/WEEK/WEEK.txt"
 FILES="my*.asc my*.txt my*.sh"
